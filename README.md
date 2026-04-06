@@ -1,6 +1,6 @@
 # Healthcare Claims API
 
-A GitHub-ready Spring Boot project that simulates a healthcare claims processing workflow. It covers **members, providers, eligibility tracking, and claim status updates** — a strong portfolio project for backend, healthcare, and enterprise API roles.
+A GitHub-ready Spring Boot project that simulates a healthcare claims processing workflow. It covers **members, providers, eligibility tracking, and claim status updates** - a strong portfolio project for backend, healthcare, and enterprise API roles.
 
 ## Tech Stack
 - Java 17
